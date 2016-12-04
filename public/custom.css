@@ -1,0 +1,18 @@
+.btn{
+	border-radius: 0;
+}
+input[type=text] {
+	border-radius: 0;
+}
+input[type=email] {
+	border-radius: 0;
+}
+input[type=tel] {
+	border-radius: 0;
+}
+input[type=date] {
+	border-radius: 0;
+}
+input[type=number] {
+	border-radius: 0;
+}
